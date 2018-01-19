@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire emblem.Plugins", "Fire emblem.Plugins.csproj", "{0A641FFD-83E9-C3EA-C905-DC4B3F45DA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire emblem", "Fire emblem.csproj", "{0F17AB50-3177-B927-C91E-6F28DC3D5BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire emblem.Editor.Plugins", "Fire emblem.Editor.Plugins.csproj", "{8D0EDFB1-4EFB-8D41-3269-7D598157F2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A641FFD-83E9-C3EA-C905-DC4B3F45DA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A641FFD-83E9-C3EA-C905-DC4B3F45DA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A641FFD-83E9-C3EA-C905-DC4B3F45DA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A641FFD-83E9-C3EA-C905-DC4B3F45DA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F17AB50-3177-B927-C91E-6F28DC3D5BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F17AB50-3177-B927-C91E-6F28DC3D5BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F17AB50-3177-B927-C91E-6F28DC3D5BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F17AB50-3177-B927-C91E-6F28DC3D5BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0EDFB1-4EFB-8D41-3269-7D598157F2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0EDFB1-4EFB-8D41-3269-7D598157F2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0EDFB1-4EFB-8D41-3269-7D598157F2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0EDFB1-4EFB-8D41-3269-7D598157F2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
